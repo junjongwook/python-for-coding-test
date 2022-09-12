@@ -82,15 +82,19 @@ print(count)
 
 
 # 코딩 테스트 사이트
-|해외|코드포스(Codeforces)|http://www.codeforces.com|  
+| 해외 |코드포스(Codeforces)|http://www.codeforces.com|  
 |----|----|----|  
-|해외|탑코더(TopCoder)|http://www.topcoder.com|
-|해외|릿코드(LeetCode)|http://www.leetcode.com|
-|해외|코드쉐프(CODECHEF)|http://www.codechef.com|
-|국내|백준 온라인(BOJ)|http://www.amicpc.com|
-|국내|코드업(CodeUp)|http://codeup.kr|
-|국내|프로그래머스(Programmers)|http://programmers.co.kr|
-|국내|SW Expert Academy|http://swexpertacademy.com|
+| 해외 |탑코더(TopCoder)|http://www.topcoder.com|
+| 해외 |릿코드(LeetCode)|http://www.leetcode.com|
+| 해외 |코드쉐프(CODECHEF)|http://www.codechef.com|
+| 국내 |백준 온라인(BOJ)|http://www.amicpc.com|
+| 국내 |코드업(CodeUp)|http://codeup.kr|
+| 국내 |프로그래머스(Programmers)|http://programmers.co.kr|
+| 국내 |SW Expert Academy|http://swexpertacademy.com|
+| ?  |코드 시그널|https://app.codesignal.com|
+| ?  |게임코딩|https://www.codingame.com|
+| 국내 |정올|http://www.jungol.co.kr|
+|국내|생활코딩|https://opentutorials.org|
 
 > GIL : Global Interpreter Lock
 
