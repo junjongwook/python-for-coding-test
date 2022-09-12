@@ -81,3 +81,47 @@ print(count)
 > math 라이브러리의 gcd(a, b) 함수는 최대 공약수를 반환한다.
 
 
+# 코딩 테스트 사이트
+|해외|코드포스(Codeforces)|http://www.codeforces.com|  
+|----|----|----|  
+|해외|탑코더(TopCoder)|http://www.topcoder.com|
+|해외|릿코드(LeetCode)|http://www.leetcode.com|
+|해외|코드쉐프(CODECHEF)|http://www.codechef.com|
+|국내|백준 온라인(BOJ)|http://www.amicpc.com|
+|국내|코드업(CodeUp)|http://codeup.kr|
+|국내|프로그래머스(Programmers)|http://programmers.co.kr|
+|국내|SW Expert Academy|http://swexpertacademy.com|
+
+> GIL : Global Interpreter Lock
+
+> PyPy3에서는 실행 시, 자주 사용하는 코드를 캐싱하는 기능이 있기 때문에,   
+> 즉 메모리를 더 사용하여 그것을들 저장하고 있어, 실행속도를 개선할 수 있다.  
+> 간단한 코드 상에는 Python3가 메모리, 속도 측면에서 우세할 수 있고,  
+> 복잡한 코드(반복)을 사용하는 경우에는 PyPy3가 우세하다.
+
+
+# 온라인 개발 환경
+> 리플릿 : https://replit.com/  
+> 파이썬 튜터 : http://pythontutor.com/visualize.html
+> 온라인 GDB : https://www.onlinegdb.com/
+
+> 복잡도(Complexity)는 알고리즘의 성능을 나타내는 척도이다.   
+> 복잡도는 시간 복잡도(Time Complexity)와 공간(Space Complexity)로 나눌 수 있다.   
+> 시간 복잡도는 특정한 크기의 입력에 대하여 알고리즘이 얼마나 오래 걸리는지를 의미하고,   
+> 공간 복잡도는 특정한 크기의 입력에 대하여 알고리짐이 얼마나 많은 메모리를 차지하는지를 의미한다.
+
+
+> 복잡도를 측정함으로써 다음의 2가지를 계산할 수 있다.  
+    - 시간 복잡도 : 알고리즘을 위해 필요한 연산의 횟수
+    - 공간 복잡도 : 알고리즘을 위해 필요한 메모리의 양
+
+### 수행시간 측정 코드
+```python
+import time
+start_time = time.time()    # 측정시각 시작
+#프로그랰 코드
+end_time = time.time()      # 측정시각 끝
+print("time : ", end_time - start_time) # 수행 시간 출력
+```
+
+
